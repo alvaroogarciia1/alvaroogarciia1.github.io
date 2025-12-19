@@ -1,3 +1,4 @@
+<img src="/assets/images/personalPicture.jpg" alt="Profile picture" width="180" style="border-radius: 50%;">
 I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM), interested in software development, systems programming and clean code practices.
 
 This website showcases some of the academic and personal projects I have developed during my degree.
