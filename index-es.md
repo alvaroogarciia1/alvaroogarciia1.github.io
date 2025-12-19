@@ -1,5 +1,5 @@
 ---
-title: Álvaro García
+title: Álvaro García-Caro Bartolomé
 description: Estudiante de Ingeniería Informática | Desarrollador de Software
 ---
 <div style="text-align: right; margin-top: 15px; font-size: 13px;">
@@ -49,6 +49,11 @@ sistema de deshacer movimientos, persistencia de partida y pruebas automatizadas
 Shell tipo Unix desarrollado en C, que implementa gestión de procesos,
 tuberías, redirecciones y manejo de señales.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/minishell)
+
+### 🧠 Procesador de Lenguajes – Compilador en Java
+Proyecto académico centrado en la implementación de un procesador de lenguajes siguiendo una arquitectura de tipo compilador, que incluye análisis léxico, sintáctico y semántico, construcción de AST y gestión de la tabla de símbolos.  
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/procesador-de-lenguajes)
+
 
 ---
 

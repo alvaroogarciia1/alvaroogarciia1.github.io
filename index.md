@@ -1,5 +1,5 @@
 ---
-title: Álvaro García
+title: Álvaro García-Caro Bartolomé
 description: Computer Engineering Student | Software Developer
 ---
 <div style="text-align: right; margin-top: 15px; font-size: 13px;">
@@ -43,6 +43,10 @@ Java implementation of the classic Sokoban puzzle game with GUI, undo system, pe
 ### 🖥️ MiniShell – Unix Command Interpreter in C
 Unix-like shell developed in C, featuring process management, pipes, redirections and signal handling.  
 👉 [View repository](https://github.com/alvaroogarciia1/minishell)
+
+### 🧠 Language Processor – Compiler in Java
+Academic project focused on the implementation of a language processor, including lexical, syntax and semantic analysis with AST and symbol table management.  
+👉 [View repository](https://github.com/alvaroogarciia1/languageProcessor)
 
 ---
 
