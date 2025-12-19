@@ -1,6 +1,19 @@
-<div style="text-align: right; margin-top: 10px;">
-  <a href="/index-es" style="font-size: 14px;">🇪🇸 Español</a>
+<div style="text-align: right; margin-top: 15px;">
+  <a href="/index-es"
+     style="
+       display: inline-block;
+       padding: 6px 12px;
+       font-size: 13px;
+       border: 1px solid #ccc;
+       border-radius: 20px;
+       text-decoration: none;
+       color: #333;
+       background-color: #f9f9f9;
+     ">
+    🇪🇸 Español
+  </a>
 </div>
+
 <div style="display: flex; align-items: center; gap: 40px; margin-top: 30px;">
 
   <img src="/assets/images/personalPicture.jpg"
