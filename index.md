@@ -1,3 +1,7 @@
+---
+title: Álvaro García
+description: Computer Engineering Student | Software Developer
+---
 <div style="text-align: right; margin-top: 15px; font-size: 13px;">
   <strong>EN</strong> |
   <a href="/index-es" style="text-decoration: none;">ES</a>

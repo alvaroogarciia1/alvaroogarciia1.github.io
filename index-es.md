@@ -1,3 +1,7 @@
+---
+title: Álvaro García
+description: Estudiante de Ingeniería Informática | Desarrollador de Software
+---
 <div style="text-align: right; margin-top: 15px; font-size: 13px;">
   <a href="/" style="text-decoration: none;">EN</a> |
   <strong>ES</strong>
@@ -7,8 +11,8 @@
 
   <img src="/assets/images/personalPicture.jpg"
        alt="Foto de perfil"
-       width="200"
-       style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+       width="220"
+       style="border-radius: 50%;">
 
   <div>
     <p>
