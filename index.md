@@ -8,18 +8,20 @@
   <div>
     <p>
       I'm a <strong>Computer Engineering student</strong> at the Universidad Politécnica de Madrid (UPM),
-      interested in software development, systems programming and clean code practices.
+      with a strong interest in <strong>backend development</strong>, systems programming and clean, well-structured code.
     </p>
 
     <p>
-      This website showcases some of the academic and personal projects I have developed during my degree.
+      Most of my projects started as university assignments and evolved into personal learning challenges,
+      where I focus on maintainable code, proper documentation and testing.
+    </p>
+
+    <p>
+      📌 <strong>Open to internship opportunities and junior roles</strong> in software and backend development.
     </p>
   </div>
 
 </div>
-I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM), interested in software development, systems programming and clean code practices.
-
-This website showcases some of the academic and personal projects I have developed during my degree.
 
 ---
 
@@ -35,6 +37,29 @@ Unix-like shell developed in C, featuring process management, pipes, redirection
 
 ---
 
+## 💻 Tech Stack (Core)
+
+- **Languages:** Java, C, Python, Dart, Bash  
+- **Backend:** Spring Boot, REST APIs, Hibernate  
+- **Databases:** PostgreSQL, MySQL, Firebase  
+- **Tools & DevOps:** Git, GitHub, GitLab, Maven, SonarQube  
+
+---
+
+## 🎓 Academic & Additional Experience
+
+- C and Linux system-level programming  
+- Java and Spring-based backend projects  
+- C# and Unity for game development projects  
+- R for statistical analysis in academic coursework  
+- OpenGL for basic 3D graphics and geometry visualization  
+- Apache Tomcat, Ant and WSDL in web services–related assignments  
+- Docker introduced and used in academic environments  
+- LaTeX for technical documentation and reports  
+
+---
+
 ## 📫 Contact
-- GitHub: [alvaroogarciia1](https://github.com/alvaroogarciia1)
+
+- GitHub: [alvaroogarciia1](https://github.com/alvaroogarciia1)  
 - LinkedIn: [Álvaro García](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
