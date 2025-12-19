@@ -1,4 +1,22 @@
-<img src="/assets/images/personalPicture.jpg" alt="Profile picture" width="180" style="border-radius: 50%;">
+<div style="display: flex; align-items: center; gap: 40px; margin-top: 30px;">
+
+  <img src="/assets/images/personalPicture.jpg"
+       alt="Profile picture"
+       width="160"
+       style="border-radius: 50%;">
+
+  <div>
+    <p>
+      I'm a <strong>Computer Engineering student</strong> at the Universidad Politécnica de Madrid (UPM),
+      interested in software development, systems programming and clean code practices.
+    </p>
+
+    <p>
+      This website showcases some of the academic and personal projects I have developed during my degree.
+    </p>
+  </div>
+
+</div>
 I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM), interested in software development, systems programming and clean code practices.
 
 This website showcases some of the academic and personal projects I have developed during my degree.
