@@ -52,7 +52,7 @@ tuberías, redirecciones y manejo de señales.
 
 ### 🧠 Procesador de Lenguajes – Compilador en Java
 Proyecto académico centrado en la implementación de un procesador de lenguajes siguiendo una arquitectura de tipo compilador, que incluye análisis léxico, sintáctico y semántico, construcción de AST y gestión de la tabla de símbolos.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/procesador-de-lenguajes)
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/languageProcessor)
 
 
 ---
