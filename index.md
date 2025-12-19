@@ -2,7 +2,7 @@
 
   <img src="/assets/images/personalPicture.jpg"
        alt="Profile picture"
-       width="160"
+       width="220"
        style="border-radius: 50%;">
 
   <div>
