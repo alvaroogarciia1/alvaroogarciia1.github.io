@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Álvaro
-
 I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM), interested in software development, systems programming and clean code practices.
 
 This website showcases some of the academic and personal projects I have developed during my degree.
@@ -20,4 +18,4 @@ Unix-like shell developed in C, featuring process management, pipes, redirection
 
 ## 📫 Contact
 - GitHub: [alvaroogarciia1](https://github.com/alvaroogarciia1)
-- LinkedIn: *(añádelo cuando quieras)*
+- LinkedIn: [Álvaro García](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
