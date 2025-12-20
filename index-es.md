@@ -88,5 +88,5 @@ API REST desarrollada con Spring Boot para la gestión de una biblioteca, incluy
 
 ## 📫 Contacto
 
-- Email: [Email](mailto:byalvaro40@gmail.com)  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
+[Email](mailto:byalvaro40@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
