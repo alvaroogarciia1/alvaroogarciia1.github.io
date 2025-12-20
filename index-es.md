@@ -54,6 +54,10 @@ tuberías, redirecciones y manejo de señales.
 Proyecto académico centrado en la implementación de un procesador de lenguajes siguiendo una arquitectura de tipo compilador, que incluye análisis léxico, sintáctico y semántico, construcción de AST y gestión de la tabla de símbolos.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/languageProcessor)
 
+### 🎾 Administrador de torneos de tenis – App móvil en Flutter
+Aplicación móvil desarrollada en Flutter para la gestión de torneos individuales de tenis, con roles de administrador y jugador, emparejamientos automáticos, gestión de resultados, rankings y estadísticas.  
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/tenisApp)
+
 
 ---
 

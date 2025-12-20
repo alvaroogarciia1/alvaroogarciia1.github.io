@@ -48,6 +48,10 @@ Unix-like shell developed in C, featuring process management, pipes, redirection
 Academic project focused on the implementation of a language processor, including lexical, syntax and semantic analysis with AST and symbol table management.  
 👉 [View repository](https://github.com/alvaroogarciia1/languageProcessor)
 
+### 🎾 Tennis Tournament Manager – Mobile App in Flutter
+Mobile application developed in **Flutter** for managing individual tennis tournaments, featuring **administrator and player roles**, automatic match pairings, result management, rankings, and statistics.  
+👉 [View repository](https://github.com/alvaroogarciia1/tenisApp)
+
 ---
 
 ## 💻 Tech Stack (Core)
