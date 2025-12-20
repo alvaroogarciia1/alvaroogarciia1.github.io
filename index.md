@@ -49,8 +49,13 @@ Academic project focused on the implementation of a language processor, includin
 👉 [View repository](https://github.com/alvaroogarciia1/languageProcessor)
 
 ### 🎾 Tennis Tournament Manager – Mobile App in Flutter
-Mobile application developed in **Flutter** for managing individual tennis tournaments, featuring **administrator and player roles**, automatic match pairings, result management, rankings, and statistics.  
+Mobile application developed in Flutter for managing individual tennis tournaments, featuring administrator and player roles, automatic match pairings, result management, rankings, and statistics.  
 👉 [View repository](https://github.com/alvaroogarciia1/tenisApp)
+
+### 📚 Library Management – REST API with Spring Boot
+RESTful API developed with Spring Boot for managing a library system, including users, books and loan operations, following REST principles, HATEOAS, proper HTTP status codes and SQL persistence.  
+👉 [View repository](https://github.com/alvaroogarciia1/libraryRESTApi)
+
 
 ---
 
@@ -78,5 +83,5 @@ Mobile application developed in **Flutter** for managing individual tennis tourn
 
 ## 📫 Contact
 
-- GitHub: [alvaroogarciia1](https://github.com/alvaroogarciia1)  
-- LinkedIn: [Álvaro García](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
+- Email: [Email](mailto:byalvaro40@gmail.com)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)

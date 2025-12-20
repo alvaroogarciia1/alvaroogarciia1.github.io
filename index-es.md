@@ -58,6 +58,9 @@ Proyecto académico centrado en la implementación de un procesador de lenguajes
 Aplicación móvil desarrollada en Flutter para la gestión de torneos individuales de tenis, con roles de administrador y jugador, emparejamientos automáticos, gestión de resultados, rankings y estadísticas.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/tenisApp)
 
+### 📚 Administrador de biblioteca – API REST con Spring Boot
+API REST desarrollada con Spring Boot para la gestión de una biblioteca, incluyendo usuarios, libros y préstamos, siguiendo principios REST, HATEOAS, uso correcto de códigos HTTP y persistencia en base de datos SQL.  
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/libraryRESTApi)
 
 ---
 
@@ -85,5 +88,5 @@ Aplicación móvil desarrollada en Flutter para la gestión de torneos individua
 
 ## 📫 Contacto
 
-- GitHub: [alvaroogarciia1](https://github.com/alvaroogarciia1)  
-- LinkedIn: [Álvaro García](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
+- Email: [Email](mailto:byalvaro40@gmail.com)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
