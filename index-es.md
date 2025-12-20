@@ -32,6 +32,11 @@ description: Estudiante de Ingeniería Informática | Desarrollador de Software
       📌 <strong>Abierto a oportunidades de prácticas y puestos junior</strong>
       en desarrollo de software y backend.
     </p>
+	<p>
+      📄 <strong>Currículum Vitae:</strong><br>
+      <a href="/assets/docs/CV_spanish.pdf" target="_blank">Descargar CV (PDF)</a>
+    </p>
+
   </div>
 
 </div>

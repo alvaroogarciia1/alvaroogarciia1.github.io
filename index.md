@@ -28,6 +28,11 @@ description: Computer Engineering Student | Software Developer
     <p>
       📌 <strong>Open to internship opportunities and junior roles</strong> in software and backend development.
     </p>
+	<p>
+      📄 <strong>Curriculum Vitae:</strong><br>
+      <a href="/assets/docs/CV_english.pdf" target="_blank">Download CV (PDF)</a>
+    </p>
+
   </div>
 
 </div>
