@@ -83,5 +83,5 @@ RESTful API developed with Spring Boot for managing a library system, including 
 
 ## 📫 Contact
 
-[Email](mailto:byalvaro40@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
+- [Email](mailto:byalvaro40@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
