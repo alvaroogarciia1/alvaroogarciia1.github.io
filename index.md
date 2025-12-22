@@ -65,6 +65,9 @@ Mobile application developed in Flutter for managing individual tennis tournamen
 RESTful API developed with Spring Boot for managing a library system, including users, books and loan operations, following REST principles, HATEOAS, proper HTTP status codes and SQL persistence.  
 👉 [View repository](https://github.com/alvaroogarciia1/libraryRESTApi)
 
+### 📚 Library Management – SOAP Web Service (Java)
+SOAP-based web service developed with Axis2 and WSDL, featuring user authentication, library inventory management and book loan operations.  
+👉 [View repository](https://github.com/alvaroogarciia1/wsdlLibrary)
 
 ---
 

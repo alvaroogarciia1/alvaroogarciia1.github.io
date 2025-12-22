@@ -71,6 +71,10 @@ Aplicación móvil desarrollada en Flutter para la gestión de torneos individua
 API REST desarrollada con Spring Boot para la gestión de una biblioteca, incluyendo usuarios, libros y préstamos, siguiendo principios REST, HATEOAS, uso correcto de códigos HTTP y persistencia en base de datos SQL.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/libraryRESTApi)
 
+### 📚 Administrador de biblioteca – Servicio Web SOAP en Java
+Servicio web basado en SOAP desarrollado con Axis2 y WSDL, que implementa gestión de usuarios, inventario de libros y préstamos.  
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/wsdlLibrary)
+
 ---
 
 ## 💻 Tecnologías Principales
