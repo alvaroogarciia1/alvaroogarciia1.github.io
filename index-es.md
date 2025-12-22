@@ -55,6 +55,10 @@ Shell tipo Unix desarrollado en C, que implementa gestión de procesos,
 tuberías, redirecciones y manejo de señales.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/minishell)
 
+### 🎯 PPS Wordle – Gestión de Diccionario en C
+Proyecto académico desarrollado en la asignatura Programación para Sistemas (PPS), centrado en programación en C a bajo nivel, manejo de ficheros binarios, cifrado César, generación de trazas y la integración con una biblioteca compartida.  
+👉 [Ver repositorio](https://github.com/alvaroogarciia1/wordle)
+
 ### 🧠 Procesador de Lenguajes – Compilador en Java
 Proyecto académico centrado en la implementación de un procesador de lenguajes siguiendo una arquitectura de tipo compilador, que incluye análisis léxico, sintáctico y semántico, construcción de AST y gestión de la tabla de símbolos.  
 👉 [Ver repositorio](https://github.com/alvaroogarciia1/languageProcessor)

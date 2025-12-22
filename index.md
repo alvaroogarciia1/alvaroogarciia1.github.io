@@ -49,6 +49,10 @@ Java implementation of the classic Sokoban puzzle game with GUI, undo system, pe
 Unix-like shell developed in C, featuring process management, pipes, redirections and signal handling.  
 👉 [View repository](https://github.com/alvaroogarciia1/minishell)
 
+### 🎯 PPS Wordle – Dictionary Management in C
+Academic project developed for the Programming for Systems course, focused on low-level C programming, binary file handling, Caesar cipher encryption, logging, and integration with a shared library.  
+👉 [View repository](https://github.com/alvaroogarciia1/wordle)
+
 ### 🧠 Language Processor – Compiler in Java
 Academic project focused on the implementation of a language processor, including lexical, syntax and semantic analysis with AST and symbol table management.  
 👉 [View repository](https://github.com/alvaroogarciia1/languageProcessor)
