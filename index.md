@@ -39,35 +39,14 @@ description: Computer Engineering Student | Software Developer
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🧩 Sokoban – Java Desktop Game
-Java implementation of the classic Sokoban puzzle game with GUI, undo system, persistence and automated testing.  
-👉 [View repository](https://github.com/alvaroogarciia1/sokoban)
+I have developed several academic and personal projects focused on backend development, systems programming and software architecture.
 
-### 🖥️ MiniShell – Unix Command Interpreter in C
-Unix-like shell developed in C, featuring process management, pipes, redirections and signal handling.  
-👉 [View repository](https://github.com/alvaroogarciia1/minishell)
+👉 **[View all projects](/projects)**
 
-### 🎯 PPS Wordle – Dictionary Management in C
-Academic project developed for the Programming for Systems course, focused on low-level C programming, binary file handling, Caesar cipher encryption, logging, and integration with a shared library.  
-👉 [View repository](https://github.com/alvaroogarciia1/wordle)
-
-### 🧠 Language Processor – Compiler in Java
-Academic project focused on the implementation of a language processor, including lexical, syntax and semantic analysis with AST and symbol table management.  
-👉 [View repository](https://github.com/alvaroogarciia1/languageProcessor)
-
-### 🎾 Tennis Tournament Manager – Mobile App in Flutter
-Mobile application developed in Flutter for managing individual tennis tournaments, featuring administrator and player roles, automatic match pairings, result management, rankings, and statistics.  
-👉 [View repository](https://github.com/alvaroogarciia1/tenisApp)
-
-### 📚 Library Management – REST API with Spring Boot
-RESTful API developed with Spring Boot for managing a library system, including users, books and loan operations, following REST principles, HATEOAS, proper HTTP status codes and SQL persistence.  
-👉 [View repository](https://github.com/alvaroogarciia1/libraryRESTApi)
-
-### 📚 Library Management – SOAP Web Service (Java)
-SOAP-based web service developed with Axis2 and WSDL, featuring user authentication, library inventory management and book loan operations.  
-👉 [View repository](https://github.com/alvaroogarciia1/wsdlLibrary)
+> **Note:** All project documentation and README files are written in **English**.  
+> If you prefer another language, you may need to rely on automatic translation tools.
 
 ---
 

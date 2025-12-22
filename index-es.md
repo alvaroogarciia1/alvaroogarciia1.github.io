@@ -43,37 +43,14 @@ description: Estudiante de Ingeniería Informática | Desarrollador de Software
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
-### 🧩 Sokoban – Juego de Escritorio en Java
-Implementación en Java del clásico juego Sokoban, con interfaz gráfica,
-sistema de deshacer movimientos, persistencia de partida y pruebas automatizadas.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/sokoban)
+He desarrollado diversos proyectos académicos y personales centrados en backend, programación de sistemas y arquitectura software.
 
-### 🖥️ MiniShell – Intérprete de Comandos Unix en C
-Shell tipo Unix desarrollado en C, que implementa gestión de procesos,
-tuberías, redirecciones y manejo de señales.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/minishell)
+👉 **[Ver todos los proyectos](/projects-es)**
 
-### 🎯 PPS Wordle – Gestión de Diccionario en C
-Proyecto académico desarrollado en la asignatura Programación para Sistemas (PPS), centrado en programación en C a bajo nivel, manejo de ficheros binarios, cifrado César, generación de trazas y la integración con una biblioteca compartida.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/wordle)
-
-### 🧠 Procesador de Lenguajes – Compilador en Java
-Proyecto académico centrado en la implementación de un procesador de lenguajes siguiendo una arquitectura de tipo compilador, que incluye análisis léxico, sintáctico y semántico, construcción de AST y gestión de la tabla de símbolos.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/languageProcessor)
-
-### 🎾 Administrador de torneos de tenis – App móvil en Flutter
-Aplicación móvil desarrollada en Flutter para la gestión de torneos individuales de tenis, con roles de administrador y jugador, emparejamientos automáticos, gestión de resultados, rankings y estadísticas.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/tenisApp)
-
-### 📚 Administrador de biblioteca – API REST con Spring Boot
-API REST desarrollada con Spring Boot para la gestión de una biblioteca, incluyendo usuarios, libros y préstamos, siguiendo principios REST, HATEOAS, uso correcto de códigos HTTP y persistencia en base de datos SQL.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/libraryRESTApi)
-
-### 📚 Administrador de biblioteca – Servicio Web SOAP en Java
-Servicio web basado en SOAP desarrollado con Axis2 y WSDL, que implementa gestión de usuarios, inventario de libros y préstamos.  
-👉 [Ver repositorio](https://github.com/alvaroogarciia1/wsdlLibrary)
+> **Nota:** Toda la documentación de los proyectos y los archivos README están escritos en **inglés**.  
+> Si se desea consultar la información en otro idioma, será necesario utilizar herramientas de traducción.
 
 ---
 
