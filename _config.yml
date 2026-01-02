@@ -1,2 +1,4 @@
-theme: jekyll-theme-merlot
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
+plugins:
+  - jekyll-remote-theme
