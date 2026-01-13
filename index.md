@@ -1,6 +1,6 @@
 ---
 title: Álvaro García-Caro Bartolomé
-description: Computer Engineering Student | Software Developer
+description: Computer Engineering Student | Software Development, Systems & Cybersecurity
 ---
 <div style="text-align: right; margin-top: 15px; font-size: 13px;">
   <strong>EN</strong> |
@@ -17,18 +17,25 @@ description: Computer Engineering Student | Software Developer
   <div>
     <p>
       I'm a <strong>Computer Engineering student</strong> at the Universidad Politécnica de Madrid (UPM),
-      with a strong interest in <strong>backend development</strong>, systems programming and clean, well-structured code.
+      with a strong interest in <strong>backend development</strong>, <strong>systems programming</strong>,
+      and <strong>cybersecurity</strong>, particularly in <strong>Linux</strong> and
+      <strong>low-level environments</strong>.
     </p>
 
     <p>
-      Most of my projects started as university assignments and evolved into personal learning challenges,
-      where I focus on maintainable code, proper documentation and testing.
+      Most of my projects started as university assignments and evolved into
+      <strong>personal learning challenges</strong>, where I focus on
+      <strong>clean code</strong>, <strong>well-structured software</strong>,
+      <strong>clear documentation</strong>, and <strong>automated testing</strong>.
     </p>
 
     <p>
-      📌 <strong>Open to internship opportunities and junior roles</strong> in software and backend development.
+      📌 <strong>Open to internship opportunities and junior roles</strong> in
+      <strong>software development, backend</strong>, and
+      <strong>systems- or cybersecurity-related positions</strong>.
     </p>
-	<p>
+
+    <p>
       📄 <strong>Curriculum Vitae:</strong><br>
       <a href="/assets/docs/CV_english.pdf" target="_blank">Download CV (PDF)</a>
     </p>
@@ -41,38 +48,39 @@ description: Computer Engineering Student | Software Developer
 
 ## 🚀 Projects
 
-I have developed several academic and personal projects focused on backend development, systems programming and software architecture.
+I have developed several academic and personal projects focused on
+backend development, systems programming, software architecture,
+and security fundamentals.
 
-👉 **[View all projects](/projects)**
+👉 <strong><a href="/projects">View all projects</a></strong>
 
-> **Note:** All project documentation and README files are written in **English**.  
+> <strong>Note:</strong> All project documentation and README files are written in <strong>English</strong>.  
 > If you prefer another language, you may need to rely on automatic translation tools.
 
 ---
 
 ## 💻 Tech Stack (Core)
 
-- **Languages:** Java, C, Python, Dart, Bash  
-- **Backend:** Spring Boot, REST APIs, Hibernate  
-- **Databases:** PostgreSQL, MySQL, Firebase  
-- **Tools & DevOps:** Git, GitHub, GitLab, Maven, SonarQube  
+- <strong>Languages:</strong> Java, C, Python, Dart, Bash  
+- <strong>Backend:</strong> Spring Boot, REST APIs, Hibernate  
+- <strong>Databases:</strong> PostgreSQL, MySQL, Firebase  
+- <strong>Systems & Tools:</strong> Linux, Git, GitHub, GitLab, Maven, SonarQube  
 
 ---
 
 ## 🎓 Academic & Additional Experience
 
-- C and Linux system-level programming  
-- Java and Spring-based backend projects  
+- System-level programming in C and Linux  
+- Backend development with Java and Spring  
+- Fundamentals of operating systems and process management  
+- Introduction to networking and security concepts in academic contexts  
 - C# and Unity for game development projects  
-- R for statistical analysis in academic coursework  
-- OpenGL for basic 3D graphics and geometry visualization  
-- Apache Tomcat, Ant and WSDL in web services–related assignments  
-- Docker introduced and used in academic environments  
+- Docker usage in academic environments  
 - LaTeX for technical documentation and reports  
 
 ---
 
 ## 📫 Contact
 
-- [Email](mailto:byalvaro40@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346)
+- <a href="mailto:byalvaro40@gmail.com">Email</a>  
+- <a href="https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346">LinkedIn</a>
