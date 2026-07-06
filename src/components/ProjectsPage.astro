@@ -1,0 +1,41 @@
+---
+import Layout from "../layouts/Layout.astro";
+import LanguageSwitcher from "./LanguageSwitcher.astro";
+import ProjectCard from "./ProjectCard.astro";
+
+import { projects } from "../data/projects";
+
+import { getTranslation } from "../i18n";
+
+interface Props {
+  lang: "en" | "es";
+}
+
+const { lang } = Astro.props;
+
+const t = getTranslation(lang);
+---
+
+<Layout title="Projects" lang={lang}>
+  <main>
+    <LanguageSwitcher lang={lang} />
+
+    <section class="mx-auto max-w-7xl px-8 py-14">
+      <h1 class="text-5xl font-black">
+        {t.projects.title}
+      </h1>
+
+      <p class="mt-4 max-w-3xl text-zinc-400">
+        {t.projects.description}
+      </p>
+
+      <div class="mt-10 grid gap-8 md:grid-cols-2">
+        {
+          projects.map((project) => (
+            <ProjectCard project={project} lang={lang} />
+          ))
+        }
+      </div>
+    </section>
+  </main>
+</Layout>

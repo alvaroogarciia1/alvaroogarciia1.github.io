@@ -1,0 +1,28 @@
+---
+interface Props {
+  lang: "en" | "es";
+}
+
+const { lang } = Astro.props;
+---
+
+<div class="mx-auto max-w-7xl px-8 pt-6 text-right text-sm">
+  {
+    lang === "es" ? (
+      <>
+        <a href="/" class="text-sky-400 hover:underline">
+          EN
+        </a>{" "}
+        |<strong> ES</strong>
+      </>
+    ) : (
+      <>
+        <strong>EN</strong> |
+        <a href="/es" class="text-sky-400 hover:underline">
+          {" "}
+          ES
+        </a>
+      </>
+    )
+  }
+</div>

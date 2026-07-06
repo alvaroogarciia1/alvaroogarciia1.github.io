@@ -1,0 +1,60 @@
+---
+import { profile } from "../data/profile";
+
+interface Props {
+  lang: "en" | "es";
+}
+
+const { lang } = Astro.props;
+
+const links = {
+  home: lang === "es" ? "/es" : "/",
+  projects: lang === "es" ? "/projects-es" : "/projects",
+  cv: profile.cv[lang],
+};
+
+const text = {
+  about: lang === "es" ? "Sobre mí" : "About",
+  projects: lang === "es" ? "Proyectos" : "Projects",
+  tech: lang === "es" ? "Tecnologías" : "Tech Stack",
+  contact: lang === "es" ? "Contacto" : "Contact",
+  cv: lang === "es" ? "CV" : "CV",
+};
+---
+
+<header
+  class="sticky top-0 z-50 border-b border-zinc-800 bg-zinc-950/80 backdrop-blur"
+>
+  <nav class="mx-auto flex max-w-7xl items-center justify-between px-8 py-4">
+    <a href={links.home} class="font-bold text-zinc-100 hover:text-sky-400">
+      Álvaro García-Caro
+    </a>
+
+    <div class="hidden items-center gap-6 text-sm text-zinc-400 md:flex">
+      <a href="#about" class="hover:text-sky-400">{text.about}</a>
+      <a href="#projects" class="hover:text-sky-400">{text.projects}</a>
+      <a href="#tech" class="hover:text-sky-400">{text.tech}</a>
+      <a href="#contact" class="hover:text-sky-400">{text.contact}</a>
+
+      <a
+        href={links.cv}
+        target="_blank"
+        class="rounded-lg bg-sky-500 px-4 py-2 font-semibold text-white hover:bg-sky-400"
+      >
+        {text.cv}
+      </a>
+
+      {
+        lang === "es" ? (
+          <a href="/" class="hover:text-sky-400">
+            EN
+          </a>
+        ) : (
+          <a href="/es" class="hover:text-sky-400">
+            ES
+          </a>
+        )
+      }
+    </div>
+  </nav>
+</header>
